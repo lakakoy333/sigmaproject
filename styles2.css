@@ -1,0 +1,27 @@
+.bgr{
+    margin: 0;
+    height:100vh;
+    background: cornsilk;
+  
+  }
+
+
+.header {
+    position: absolute;
+  
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, fantasy;
+    color:aliceblue;
+    letter-spacing: 0,5px;
+    height:100px;
+    width:100%;
+  
+  }
+  .headertxt {
+    padding-top:50px;
+    padding-left: 20px;
+  }
+
+  .links{
+    text-decoration: none;
+  }
